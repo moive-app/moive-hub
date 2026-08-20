@@ -3,17 +3,23 @@ status: approved
 owner: 미정
 last_reviewed: 2026-08-21
 source_of_truth: notion
-related_links: []
+related_links:
+  - "Notion 공식 문서: https://app.notion.com/p/3c25b4ba866380e5a2b4f9e27e04099d?source=copy_link"
 discord_links:
-  forums: []
+  forums:
+    - "https://discord.com/channels/1536369234077286432/1540047046642372648"
   threads: []
 ---
 
 > **Source of Truth: Notion**
 > 이 문서는 Notion에 최종 확정·반영된 「로그인 · 회원가입 정책 및 예외 처리」 최종본을 그대로 옮긴 사본입니다.
 > 정책의 원본과 최신 상태는 Notion 공식 문서를 기준으로 하며, 이 문서와 Notion이 다르면 Notion을 우선합니다.
-> 실제 Notion 페이지 링크는 아직 이 문서에 등록되지 않았습니다(`related_links`가 비어 있는 이유). 링크가 확인되면 `related_links`에 추가합니다.
+> Notion 원본: https://app.notion.com/p/3c25b4ba866380e5a2b4f9e27e04099d?source=copy_link
 > 이 문서를 수정해야 할 경우, Notion 원본을 먼저 갱신한 뒤 그 변경 사항을 이 문서에 동일하게 반영합니다. 이 문서만 임의로 수정해 Notion과 다른 내용으로 만들지 않습니다.
+>
+> **관련 Discord 논의**
+> Forum: https://discord.com/channels/1536369234077286432/1540047046642372648
+> 이 Discord Forum은 본 정책이 만들어지는 과정의 논의 원본이며, 논의 내용 자체는 확정된 결정이 아닙니다. 최종 결정의 근거는 Notion 공식 문서이며, 이 Discord 링크는 논의 맥락을 확인하기 위한 참고 자료로만 사용합니다.
 
 # 로그인 · 회원가입 정책 및 예외 처리
 
